@@ -1,0 +1,82 @@
+[{
+		"id": 1,
+		"nombre": "Varita Harry Potter",
+		"descripcion": "36cm de largo, hecha con pluma de fenix",
+		"precio": 3000,
+		"imagen": "img/Harry2_grande.png",
+		"cantidad": 1,
+		"detalle": "varitas"
+	}, {
+		"id": 2,
+		"nombre": "Varita Hermione Granger",
+		"descripcion": "36 cm de largo, hecha con madera de vid única y un núcleo de fibra de corazón de dragón",
+		"precio": 2500,
+		"imagen": "img/Hermione2_grande.png",
+		"cantidad": 1,
+		"detalle": "varitas"
+	}, {
+		"id": 3,
+		"nombre": "Varita Ron Weasley",
+		"descripcion": "Esculpida en resina, 35,3 cm de largo",
+		"precio": 2000,
+		"imagen": "img/varitaron.png",
+		"cantidad": 1,
+		"detalle": "varitas"
+	}, {
+		"id": 4,
+		"nombre": "Varita Voldemort",
+		"descripcion": "Esculpida en resina, 35,3 cm de largo",
+		"precio": 2000,
+		"imagen": "img/varitaVoldemort.png",
+		"cantidad": 1,
+		"detalle": "varitas"
+		
+	}, {
+		"id": 5,
+		"nombre": "Funko Harry Potter",
+		"descripcion": "Figura vinilo HP- Caliz de fuego",
+		"precio": 3500,
+		"imagen": "img/funkoHarry.png",
+		"cantidad": 1,
+		"detalle": "funkos"
+		
+	}, {
+		"id": 6,
+		"nombre": "Funko Hermione Granger",
+		"descripcion": "Figura vinilo HP- Hermione y Seleccionador",
+		"precio": 3000,
+		"imagen": "img/funkoHermione.png",
+		"cantidad": 1,
+		"detalle": "funkos"
+		
+	}, {
+		"id": 7,
+		"nombre": "Funko Ron Weasley",
+		"descripcion": "Figura vinilo HP- Ron Weasley Quidditch",
+		"precio": 3500,
+		"imagen": "img/funkoRon.png",
+		"cantidad": 1,
+		"detalle": "funkos"
+		
+	}, {
+		"id": 8,
+		"nombre": "Harry Potter y la Piedra Filosofal",
+		"descripcion": "Primer libro",
+		"precio": 2500,
+		"imagen": "img/1.lapiedrafilosofal.png",
+		"cantidad": 1,
+		"detalle": "libros"
+		
+	}, {
+		"id": 9,
+		"nombre": "Harry Potter y la camara Secreta",
+		"descripcion": "Segundo Libro",
+		"precio": 2500,
+		"imagen": "img/2.Camarasecreta.jpg",
+		"cantidad": 1,
+		"detalle": "libros"
+		
+	}
+
+
+]
