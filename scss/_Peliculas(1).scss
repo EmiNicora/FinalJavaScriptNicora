@@ -1,0 +1,108 @@
+.separadores {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+	padding-top: 20px;
+
+	.separador {
+		border-bottom: 1px solid rgb(185, 180, 179);
+		opacity: .26;
+		flex: 1 1;
+	}
+
+	.imagenseparador {
+		display: block;
+		margin: 0px 10px 20px;
+	}
+}
+
+
+.padre-flex {
+	display: flex;
+	background-color: none;
+	flex-wrap: wrap;
+	flex-direction: row;
+	justify-content: space-evenly;
+	height: auto;
+
+	div {
+		margin: 10px;
+		font-size: 16px;
+		text-align: center;
+
+		.card1 {
+			position: relative;
+			width: 25%;
+			margin: 5;
+			height: auto;
+
+
+		}
+
+		.card__image1 {
+			width: 100%;
+		}
+	}
+
+	.card__actions {
+		display: block;
+
+		.botonTextoVer {
+			border: none;
+			min-width: 90px;
+			padding: 0px 50px;
+			height: 40px;
+			border-radius: 9px;
+			justify-content: space-between;
+			align-items: center;
+			background: #B39048;
+			transition: .3s ease all;
+			display: inline-flex;
+			color: black;
+
+			&:hover {
+				color: #B39048;
+				background: white;
+			}
+		}
+
+	}
+}
+
+
+
+.card1 {
+	position: relative;
+	width: 25%;
+	margin: 5;
+	height: auto;
+
+	@media (max-width: 768px) {
+		width: 50%;
+	}
+
+	.card__image1 {
+		width: 100%;
+	}
+
+	.botonTextoVer {
+		border: none;
+		min-width: 90px;
+		padding: 0px 50px;
+		height: 40px;
+		border-radius: 9px;
+		text-decoration: none;
+		justify-content: space-between;
+		align-items: center;
+		background: #B39048;
+		transition: .3s ease all;
+		display: inline-flex;
+		color: black;
+
+		&:hover {
+			color: #B39048;
+			background: white;
+			text-decoration: none;
+		}
+	}
+}

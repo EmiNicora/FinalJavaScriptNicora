@@ -1,0 +1,21 @@
+.primerparrafo {
+	font-family: 'Cinzel', serif;
+	text-align: center;
+	color: #B39048;
+	white-space: pre-line;
+	animation-duration: 5s;
+	animation-name: aparecer;
+	font-size: $font-size + 100;
+}
+
+
+
+@keyframes aparecer {
+	0% {
+		opacity: 0;
+	}
+
+	100% {
+		opacity: 1;
+	}
+}

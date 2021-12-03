@@ -1,0 +1,97 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+@import "operadores";
+
+body {
+	font-size: 16px;
+	background-color: #10141b;
+	margin: 0%;
+}
+
+p {
+	text-align: center;
+}
+
+@import "header";
+@import "Footer";
+@import "Main";
+
+/*TITULOS */
+.tituloprincipal {
+	font-size: 150px;
+
+	@media (max-width: 768px) {
+		font-size: 50px;
+	}
+	@media (max-width: 576px) {
+		font-size: 25px;
+	}
+}
+
+.parrafoprincipal {
+	font-size: 50px;
+	font-family: 'Cinzel', serif;
+	color: white;
+
+	@media (max-width: 576px) {
+		font-size: 25px;
+	}
+}
+
+
+a {
+	text-decoration: none;
+}
+
+h1 {
+	font-family: 'Cinzel', serif;
+	color: #B39048;
+	text-align: center;
+}
+
+h2 {
+	font-family: 'Cinzel', serif;
+	text-align: center;
+	color: #B39048;
+	font-size: $font-size + 100;
+
+	@media (max-width: 576px) {
+		font-size: 4vw;
+	}
+}
+
+h3 {
+	font-family: 'Cinzel', serif;
+	text-align: center;
+	color: #B39048;
+	font-size: 20px;
+
+}
+
+@import "Novedades";
+@import "Peliculas";
+@import "Libros";
+@import "Formulario";
+@import "Atracciones";
+
+.ancho {
+	width: 50%
+}
+
+@import "store";
+
+/*PARTICULAS*/
+
+#particles-js {
+	position: fixed;
+	width: 100%;
+	top: 0%;
+	bottom: 0%;
+	right: 0%;
+	left: 0%;
+	z-index: -1;
+}

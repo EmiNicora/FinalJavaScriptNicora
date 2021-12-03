@@ -1,0 +1,60 @@
+.padre-flex_store {
+	display: flex;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+	flex-direction: row;
+	height: auto;
+}
+
+.card__title {
+	animation-duration: 5s;
+	animation-name: aparecer;
+}
+
+.imagenCasas {
+	width: 60%;
+	animation-duration: 5s;
+	animation-name: aparecer;
+}
+
+.card__casas {
+	width: 75%;
+	float: right;
+}
+
+
+.merchporitems-flex {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	height: auto;
+	margin-bottom: 15px;
+
+	.bordes {
+		width: 200px;
+		height: 200px;
+		border-style: solid;
+		padding: 3px 10px;
+		border: #B39048 1px solid;
+		border-radius: 10px;
+		align-items: center;
+
+
+		.iconomerch {
+			display: block;
+			width: 100px;
+			margin: 15px auto;
+		}
+
+		.textoitems {
+			color: white;
+		}
+
+		.parrafo {
+			color: white;
+			font-size: 15px;
+		}
+	}
+}
+
