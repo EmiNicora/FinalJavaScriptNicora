@@ -97,8 +97,6 @@ const renderizar = () =>{
     div.innerHTML = `<p class="colorProd">${stock.nombre}</p>
                     <p class="colorProd">Precio: ${stock.precio}</p>
                     <p class="colorProd" id="cantidad${stock.id}">cantidad: ${stock.cantidad}</p>
-                    <input class="inputNum" type="number" id="cantProd" min="1" max="100" value="1">
-                    <input type="button" name="resta" value="-" onclick=""><input type="text" name="contador" value="1"><input type="button" name="suma" value="+" onclick="">
      <button id="eliminar${stock.id}" class="boton-eliminar"><i class="fas fa-trash-alt"></i></button>`
     contenedorCarrito.appendChild(div)
     
