@@ -3,7 +3,7 @@
 		"nombre": "Varita Harry Potter",
 		"descripcion": "36cm de largo, hecha con pluma de fenix",
 		"precio": 3000,
-		"imagen": "img/Harry2_grande.png",
+		"imagen": "Img/Harry2_grande.png",
 		"cantidad": 1,
 		"detalle": "varitas"
 	}, {
