@@ -11,7 +11,7 @@
 		"nombre": "Varita Hermione Granger",
 		"descripcion": "36 cm de largo, hecha con madera de vid única y un núcleo de fibra de corazón de dragón",
 		"precio": 2500,
-		"imagen": "img/Hermione2_grande.png",
+		"imagen": "Img/Hermione2_grande.png",
 		"cantidad": 1,
 		"detalle": "varitas"
 	}, {
@@ -19,7 +19,7 @@
 		"nombre": "Varita Ron Weasley",
 		"descripcion": "Esculpida en resina, 35,3 cm de largo",
 		"precio": 2000,
-		"imagen": "img/varitaron.png",
+		"imagen": "Img/varitaron.png",
 		"cantidad": 1,
 		"detalle": "varitas"
 	}, {
@@ -27,7 +27,7 @@
 		"nombre": "Varita Voldemort",
 		"descripcion": "Esculpida en resina, 35,3 cm de largo",
 		"precio": 2000,
-		"imagen": "img/varitaVoldemort.png",
+		"imagen": "Img/varitaVoldemort.png",
 		"cantidad": 1,
 		"detalle": "varitas"
 		
@@ -36,7 +36,7 @@
 		"nombre": "Funko Harry Potter",
 		"descripcion": "Figura vinilo HP- Caliz de fuego",
 		"precio": 3500,
-		"imagen": "img/funkoHarry.png",
+		"imagen": "Img/funkoHarry.png",
 		"cantidad": 1,
 		"detalle": "funkos"
 		
@@ -45,7 +45,7 @@
 		"nombre": "Funko Hermione Granger",
 		"descripcion": "Figura vinilo HP- Hermione y Seleccionador",
 		"precio": 3000,
-		"imagen": "img/funkoHermione.png",
+		"imagen": "Img/funkoHermione.png",
 		"cantidad": 1,
 		"detalle": "funkos"
 		
@@ -54,7 +54,7 @@
 		"nombre": "Funko Ron Weasley",
 		"descripcion": "Figura vinilo HP- Ron Weasley Quidditch",
 		"precio": 3500,
-		"imagen": "img/funkoRon.png",
+		"imagen": "Img/funkoRon.png",
 		"cantidad": 1,
 		"detalle": "funkos"
 		
@@ -63,7 +63,7 @@
 		"nombre": "Harry Potter y la Piedra Filosofal",
 		"descripcion": "Primer libro",
 		"precio": 2500,
-		"imagen": "img/1.lapiedrafilosofal.png",
+		"imagen": "Img/1.lapiedrafilosofal.png",
 		"cantidad": 1,
 		"detalle": "libros"
 		
@@ -72,7 +72,7 @@
 		"nombre": "Harry Potter y la camara Secreta",
 		"descripcion": "Segundo Libro",
 		"precio": 2500,
-		"imagen": "img/2.Camarasecreta.jpg",
+		"imagen": "Img/2.Camarasecreta.jpg",
 		"cantidad": 1,
 		"detalle": "libros"
 		
